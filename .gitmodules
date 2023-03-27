@@ -1,0 +1,3 @@
+[submodule "opencv_ty"]
+	path = opencv_ty
+	url = git@github.com:Rsaliu/opencv_ty.git
